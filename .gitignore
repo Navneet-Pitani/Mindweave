@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.test-cache/
+.test-runs/
+Actors/
+data/
+artifacts/
+private/
+.env
+.env.*
+!.env.example
